@@ -32,7 +32,7 @@ const Register = () => {
       
             if(response.data.status_class){
                 Swal.fire({
-                    title: "Drag me!",
+                    title: "Your registration success!!",
                     icon: "success",
                     draggable: true
                   });
